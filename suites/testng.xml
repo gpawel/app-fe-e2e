@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Initial Page Tests" verbose="1" >
+    <test name="Check Messages on the Page">
+        <classes>
+            <class name="com.learnfromscratch.app_fe.e2e.GetMessagePageTest"/>
+        </classes>
+    </test>
+</suite>
